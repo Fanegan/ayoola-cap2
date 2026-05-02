@@ -1,0 +1,71 @@
+
+.first{
+    background-color: #89D4FF;
+    height: 100vh;
+    text-align: center;
+    padding-top: 150px;
+}
+
+.fascinate{
+    font-family: "Fascinate", system-ui;
+    color: #0b73af;
+    margin-bottom: 150px;
+    font-size: 3.5rem;
+}
+
+.image{
+    border-radius: 50%;
+}
+.second{
+    color: #89D4FF;
+}
+.third{
+    color: black;
+
+}
+.fourth{
+    font-family: "Merriweather Sans", sans-serif;
+    color:#0b73af;
+    font-size: 1.5rem;
+    text-align: center;
+}
+.container{
+    display: flex;
+    flex-direction: column;
+}
+
+.bottom-section{
+    background-color: #89D4FF;
+}
+
+.mid-container {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+}
+
+.skills {
+  width: 300px;
+  height: 200px;
+  object-fit: cover;
+  
+}
+h2 {
+  text-align: center;
+}
+.skill-title {
+  font-size: 1.5rem;
+  color: #0b73af;
+  margin-bottom: 10px;
+}
+.cloud-top {
+  position: absolute;
+  top: 20px;
+  left: 70%; 
+}
+
+.cloud-bottom {
+  position: absolute;
+  bottom: 20px;
+  left: 20%;
+}
